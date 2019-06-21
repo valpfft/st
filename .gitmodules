@@ -1,0 +1,3 @@
+[submodule "src/st"]
+	path = src/st
+	url = /home/vmikh/code/pkgs/st/st
